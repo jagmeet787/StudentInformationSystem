@@ -1,8 +1,8 @@
 # StudentInformationSystem
-FullStackWeb Project using REST api implementation details  
+"Student Information System" is a FullStackWeb Project, which is made using REST api implementation. The other details of the Project are as follows:
 
-Front end (HTML + CSS + BootStrap + JavaScript + jQuery)  
-Back end (Java + Jersy + JDBC + MySQL)  
+For Front end, we have used (HTML + CSS + BootStrap + JavaScript + jQuery)  
+For Back end (Java + Jersy + JDBC + MySQL) were used
 Database Schema  
 
 `create database studentproject;`  
